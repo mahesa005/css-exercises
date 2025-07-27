@@ -1,0 +1,20 @@
+.odd,
+.cooler {
+    background-color:rgb(255, 204, 203);
+    font-family: Verdana, sans-serif
+}
+
+#second {
+    color: rgb(0, 100, 203);
+    font-size:36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(0, 200, 100);
+    font-weight: 900;
+    font-size: 24px;
+}
